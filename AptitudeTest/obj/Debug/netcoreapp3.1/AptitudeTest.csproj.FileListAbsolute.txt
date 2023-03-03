@@ -1,0 +1,14 @@
+F:\MyFile\AptitudeTest\AptitudeTest\bin\Debug\netcoreapp3.1\AptitudeTest.exe
+F:\MyFile\AptitudeTest\AptitudeTest\bin\Debug\netcoreapp3.1\AptitudeTest.deps.json
+F:\MyFile\AptitudeTest\AptitudeTest\bin\Debug\netcoreapp3.1\AptitudeTest.runtimeconfig.json
+F:\MyFile\AptitudeTest\AptitudeTest\bin\Debug\netcoreapp3.1\AptitudeTest.runtimeconfig.dev.json
+F:\MyFile\AptitudeTest\AptitudeTest\bin\Debug\netcoreapp3.1\AptitudeTest.dll
+F:\MyFile\AptitudeTest\AptitudeTest\bin\Debug\netcoreapp3.1\AptitudeTest.pdb
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.csproj.AssemblyReference.cache
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.AssemblyInfoInputs.cache
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.AssemblyInfo.cs
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.csproj.CoreCompileInputs.cache
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.dll
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.pdb
+F:\MyFile\AptitudeTest\AptitudeTest\obj\Debug\netcoreapp3.1\AptitudeTest.genruntimeconfig.cache

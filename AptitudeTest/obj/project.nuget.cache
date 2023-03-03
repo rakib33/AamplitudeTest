@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtJC4VIcUaX4gNX63FZfyo61P1SM2HxhiKPYTKAK9fhlwyt5MXkhMA0ZVHZb/cwBNw+QF7eQSE+mmrtl6uP68w==",
+  "success": true,
+  "projectFilePath": "F:\\AplitudeTest\\AptitudeTest\\AptitudeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BJIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
