@@ -121,8 +121,35 @@ namespace AptitudeTest
             // var sum = RomanToInteger.RomanToInt("LVIII");
             #endregion
             #region BankLaserBeam
-            string[] input = { "011001", "000000", "010100", "001000" };
-            var beamNo = BankLaserBeams.NumberOfBeams(input);
+            //string[] input = { "011001", "000000", "010100", "001000" };
+            //var beamNo = BankLaserBeams.NumberOfBeams(input);
+            #endregion
+
+            #region AsynchornousTest
+            //AsyanchronousTest ayanchornousTest = new AsyanchronousTest();
+            //ayanchornousTest.MainLoop();
+            #endregion
+            #region LongestSubstring
+            //int num = LongestSubString.LengthOfLongestSubstring("dvdw");
+            #endregion
+
+            #region PlusMinutesProblem
+            //plusMinusProblem.plusMinus(new List<int> { 1, 1,0,-1,-1 });
+            //Console.ReadLine();
+            #endregion
+            #region MaxMinSum
+            //MaxMinSumProblem.miniMaxSum(new List<int> {5,4,7,6,3});
+            //Console.WriteLine();
+            #endregion
+
+            #region  AveryMaxSum           
+            //long sum = aVeryBigSumProblem.aVeryBigSum(new List<long> { 1000000001 ,1000000002 ,1000000003 ,1000000004 ,1000000005 });
+            //Console.WriteLine(sum);          
+            #endregion
+
+            #region TimeConversationProblem
+            string result = TimeConversationProblem.TimeConversion("12:00:00AM");
+            Console.WriteLine(result);
             #endregion
         }
 
